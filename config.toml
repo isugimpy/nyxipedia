@@ -1,0 +1,12 @@
+baseURL = 'https://nyxipedia.com/'
+languageCode = 'en-us'
+title = 'Nyxipedia'
+theme = "book"
+
+[markup]
+[markup.tableOfContents]
+  startlevel = 1
+[params]
+BookTheme = 'dark'
+BookSection = '*'
+BookToC = false
