@@ -1,5 +1,5 @@
 ---
-title: "Title Here"
+title: "Tension Rising"
 ---
 # {{< page-title >}}
 
@@ -8,5 +8,5 @@ Lorem Ipsum
 
 ## Lyrics
 {{< lyrics >}}
-Lyrics here
+(instrumental piece)
 {{< / lyrics >}}

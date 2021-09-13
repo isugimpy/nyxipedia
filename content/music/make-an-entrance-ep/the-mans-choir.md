@@ -1,5 +1,5 @@
 ---
-title: "Title Here"
+title: "The Man's Choir [Becky Lynch's Theme Revisited]"
 ---
 # {{< page-title >}}
 
@@ -8,5 +8,5 @@ Lorem Ipsum
 
 ## Lyrics
 {{< lyrics >}}
-Lyrics here
+(vocalizing without words)
 {{< / lyrics >}}

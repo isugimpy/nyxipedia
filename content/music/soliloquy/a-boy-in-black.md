@@ -1,5 +1,5 @@
 ---
-title: "Title Here"
+title: "A Boy in Black"
 ---
 # {{< page-title >}}
 
@@ -8,5 +8,5 @@ Lorem Ipsum
 
 ## Lyrics
 {{< lyrics >}}
-Lyrics here
+[[lyrics needed]]
 {{< / lyrics >}}

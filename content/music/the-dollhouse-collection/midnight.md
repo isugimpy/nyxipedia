@@ -1,5 +1,5 @@
 ---
-title: "Title Here"
+title: "Midnight [2007]"
 ---
 # {{< page-title >}}
 
@@ -8,5 +8,5 @@ Lorem Ipsum
 
 ## Lyrics
 {{< lyrics >}}
-Lyrics here
+[[lyrics needed]]
 {{< / lyrics >}}
