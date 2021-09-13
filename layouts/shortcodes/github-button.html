@@ -1,0 +1,26 @@
+ 1{{ $button := .Get "button"}}
+ 2{{ $data_icon := "mark-github" }}
+ 3{{ $aria_label := "" }}
+ 4{{ $button_text := "" }}
+ 5{{ $href := "" }}
+ 6
+ 7{{if eq $button "follow"}}
+ 8    {{ $href = printf "%s" (.Get "user")}}
+ 9    {{ $aria_label = printf "Follow @%s on GitHub" (.Get "user") }}
+10    {{ $button_text = printf "Follow @%s" (.Get "user") }}
+11{{else if eq $button "star"}}
+12    {{ $href = printf "%s/%s/" (.Get "user") (.Get "repo")}}
+13    {{ $data_icon = "star" }}
+14    {{ $aria_label = printf "Star %s/%s on GitHub" (.Get "user") (.Get "repo")}}
+15    {{ $button_text = "Star" }}
+16{{end}}
+17
+18<a 
+19    class="github-button" 
+20    href="https://github.com/{{$href}}"
+21    data-icon="octicon-{{$data_icon}}"
+22    aria-label="{{$aria_label}}"
+23    {{ with .Get "count"}} data-show-count="{{.}}"{{ end }} 
+24>
+25{{$button_text}}
+26</a>

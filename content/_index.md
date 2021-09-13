@@ -6,5 +6,4 @@ type: docs
 # Nyxipedia
 
 {{< columns >}}
-## Test header
-This is a test
+Welcome to...  a site!

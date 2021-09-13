@@ -10,3 +10,6 @@ theme = "book"
 BookTheme = 'dark'
 BookSection = '*'
 BookToC = false
+BookRepo = 'https://github.com/isugimpy/nyxipedia'
+BookCommitPath = 'commit'
+BookEditPath = 'edit/main'
