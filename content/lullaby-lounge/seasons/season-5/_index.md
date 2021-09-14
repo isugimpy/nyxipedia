@@ -1,5 +1,5 @@
 ---
-title: Season 5
+title: Season 5 - Lullaby Lounge Novelty Hour
 type: docs
 bookCollapseSection: true
 ---
@@ -7,4 +7,4 @@ bookCollapseSection: true
 # {{< page-title >}}
 
 {{< columns >}}
-A description of this season will follow.
+In season 5, Kate opted to take a new approach and turn the Lullaby Lounge into a variety show.  In addition to the live music, scripted segments joined the fun, along with some fun mini-game-shows and special guests!
