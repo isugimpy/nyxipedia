@@ -6,6 +6,9 @@ theme = "book"
 [markup]
 [markup.tableOfContents]
   startlevel = 1
+[markup.goldmark.renderer]
+  unsafe = true
+  xhtml = true
 [params]
 BookTheme = 'dark'
 BookSection = '*'
