@@ -7,4 +7,4 @@ bookCollapseSection: true
 # {{< page-title >}}
 
 {{< columns >}}
-A description of this season will follow.
+The original run of the Lullaby Lounge.  Unfortunately, due to not all of the episodes this far back being on YouTube, the episode numbers aren't correct.  As such, they're numbered by the Julian calendar date.
