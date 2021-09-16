@@ -1,10 +1,10 @@
 ---
-title: "Welcome to Facebook"
+title: "Facebook Song"
 ---
 # {{< page-title >}}
 
 ## Background
-It's unknown if this is the correct name of this song.  It was performed live for the 2019-11-13 show, and has no other known recording.
+It's unknown if this is the correct name of this song.  It was first performed live for the 2019-11-13 show.
 
 ## Lyrics
 {{< lyrics >}}

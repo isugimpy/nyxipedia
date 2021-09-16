@@ -4,7 +4,7 @@ title: "Patreon Song"
 # {{< page-title >}}
 
 ## Background
-It's unknown if this is the correct name of this song.  It was performed live for the 2019-11-13 show, and has no other known recording.  It's sung to the tune of "Do You Wanna Build A Snowman" from Frozen.
+It's unknown if this is the correct name of this song.  It was first performed live for the 2019-11-13 show.  It's sung to the tune of "Do You Wanna Build A Snowman" from Frozen.
 
 ## Lyrics
 {{< lyrics >}}
