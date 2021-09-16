@@ -4,7 +4,7 @@ title: "So Pretty When You're Mean"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+Kate made a point of stressing that this song was about an abusive relationship during a season one episode.
 
 ## Lyrics
 {{< lyrics >}}

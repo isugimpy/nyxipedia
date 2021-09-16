@@ -4,7 +4,7 @@ title: "Annabelle"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+Kate's said that this song just got written because it came into her head and she had to get it out.
 
 ## Lyrics
 {{< lyrics >}}
