@@ -1,1 +1,1 @@
-Just toss in a PR.  Prefer to style song titles in bold and album titles in italics.  Please don't editorialize in background sections.
+Just toss in a PR.  Prefer to style song titles in bold and album titles in italics when they're included in regular text rather than a set list or track list for an album.  Please don't editorialize in background sections.
