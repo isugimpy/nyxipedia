@@ -4,7 +4,7 @@ title: "Videogames & Porn"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+Kate said that this song was about a breakup with a guy who probably didn't deserve the treatment in this song.  Also, this is how she just casually came out as bisexual to people.
 
 ## Lyrics
 {{< lyrics >}}

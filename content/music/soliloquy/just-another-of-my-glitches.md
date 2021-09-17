@@ -4,7 +4,7 @@ title: "Just Another of My Glitches"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+Kate referred to this song as "doll murdery."  She also hinted at the idea of remaking this track with Brian Viglione on drums during S01E20015.
 
 ## Lyrics
 {{< lyrics >}}
@@ -14,9 +14,9 @@ Because pretty dollys don't have a chance
 At a hospital with the human boys
 They belong with the other toys
 
-I found myself a [[unintelligible]] robot boy
+I found myself a pretty robot boy
 But then they came and took him away
-So now I lie [[unintelligible]] and destroy
+So now all I do is sit  and destroy
 Myself all day all day all day all
 
 It's all just a cry for help, kid

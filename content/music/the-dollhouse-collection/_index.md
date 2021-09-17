@@ -7,6 +7,8 @@ bookCollapseSection: true
 
 ![{{< page-title >}}](/the-dollhouse-collection.jpg '{{< page-title >}}')
 
+A lot of the tracks on this album led into Soliloquy, and were made early on.
+
 ## Track List
 1. {{< track "Electric Mime Symphony - Tell-Tale Heart" "tell-tale-heart" >}} - 01:21
 2. {{< track "Warrior of Love [DEMO]" "warrior-of-love" >}} - 02:53

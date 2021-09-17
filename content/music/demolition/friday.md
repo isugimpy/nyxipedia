@@ -4,7 +4,7 @@ title: "Friday! [As Heard On WDDP]"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+Kate's a huge fan of Dragnet and wrote this parody of Rebecca Black's <b>Friday</b> about the show.
 
 ## Lyrics
 {{< lyrics >}}

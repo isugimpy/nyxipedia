@@ -4,7 +4,9 @@ title: "A Boy in Black"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+{{< blockquote author="Kate Nyx" source="S01E20015" >}}
+This song is the last song on <i>Soliloquy</i>, and I think it shows where I was headed as far as where my tone was musically.  Um.  It's one of the first songs I wrote that I think was, like, making people-- er, showing my colors as I moved forward.  There's these like, sort of, middle songs that either happen on the end of the record, or in between records, like <b>Fix the Girl</b> was sort of the between of <i>To My Sisters...</i> and <i>Soliloquy</i>.  And then the between <i>Soliloquy</i> and <i>idiot child.</i> is this song, which is the last song on the record.
+{{< /blockquote >}}
 
 ## Lyrics
 {{< lyrics >}}

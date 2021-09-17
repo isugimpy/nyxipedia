@@ -7,6 +7,11 @@ bookCollapseSection: true
 
 ![{{< page-title >}}](/soliloquy.jpg '{{< page-title >}}')
 
+{{< blockquote author="Kate Nyx" source="S01E20015" >}}
+Honestly, I think there are maybe four passable songs on Soliloquy.  A lot of it is, like, industrial teenage screaming.  Emotional, industrial teenage screaming.  And, uh, yeah.  It just...  It's a ride.
+{{< /blockquote >}}
+
+
 ## Track List
 1. {{< track "She Who is Made of Salt" "she-who-is-made-of-salt" >}} - 02:32
 2. {{< track "Just Another of My Glitches" "just-another-of-my-glitches" >}} - 02:48
