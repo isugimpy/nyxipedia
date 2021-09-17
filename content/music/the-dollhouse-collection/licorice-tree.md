@@ -4,11 +4,11 @@ title: "Licorice Tree [2004]"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+Written by Kate for her friend Bean, in the comments on Bean's Xanga in 2003.  Bean is the same friend "Farewell, Licorice Tree" was written for.
 
 ## Lyrics
 {{< lyrics >}}
-In the sight of faerie lies
+In the sight of faerie eyes
 You look at the magenta skies
 Sunsets just for us
 Just you and me
@@ -27,7 +27,7 @@ For you and I
 We can ride away on fireflies
 Fireflies
 
-But can you [[unintelligible]] our skin
+The candy droplets kiss our skin
 In this lovely dream that we are in
 They touch only us
 Just you and me
