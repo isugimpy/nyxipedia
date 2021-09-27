@@ -1,5 +1,5 @@
 ---
-title: "Unknown Title"
+title: "Purgatory"
 ---
 # {{< page-title >}}
 
