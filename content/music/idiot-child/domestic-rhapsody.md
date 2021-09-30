@@ -11,7 +11,7 @@ Lorem Ipsum
 (vocalizing)
 I can tell from the way you smile
 That you think I’m inferior
-[[unclear]] I complain because 
+Why don't I complain?  Because 
 I’m used to you being superior
 
 She’s a goddess in a blue dress
