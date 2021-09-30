@@ -4,7 +4,7 @@ title: "Don't Block the Box"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+
 
 ## Lyrics
 {{< lyrics >}}
