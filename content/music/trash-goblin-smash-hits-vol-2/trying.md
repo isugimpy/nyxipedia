@@ -42,7 +42,7 @@ I wanna share cause we are not alone
 And we can't do all of this on our own
 There's strength in weakness, and I am getting stronger
 Remind myself that the path it don't get longer
-I keep getting trapped by my have beens and nevers
+I keep getting trapped by my "haven'ts" and "nevers"
 It's dark right now but this won't be forever
 
 I'm trying
