@@ -5,6 +5,9 @@ title: "The Best You've Had By Far"
 
 ## Background
 This was a brand new song which premiered on S01E20015.  Kate has referred to this song as the best one she's ever written.
+{{< blockquote author="Kate Nyx" source="S01E20085" >}}
+"I just want you to love me like you love all the others."  Is it about my dad?  Is it about the general public?  The world will never know!
+{{< / blockquote >}}
 
 ## Lyrics
 {{< lyrics >}}

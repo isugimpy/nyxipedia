@@ -4,40 +4,43 @@ title: "Spring Cleaning"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+{{< blockquote author="Kate Nyx" source="S01E20085" >}}
+Fun fact!  On the recorded version of this song, on Sage and Silver Bullets, um, the bassist I hired, Patrick (he's super awesome, he also played mandolin on the record), the bassline to this is inspired by the Imperial March from Star Wars.
+{{< / blockquote >}}
+During the same episode, while playing the song, after the line "I can't recall the moment I decided your fate," Kate paused and said, "That's a lie, actually.  I can exactly recall the moment that I decided his fate," before picking right back up.  Also after the line, "After all the wrong you did me, I'm trying not to dwell," she interjected, "Which is why I wrote a whole record about it, or more," with a laugh.
 
 ## Lyrics
 {{< lyrics >}}
-it's been a little while now, the both of us moved on
-our love is dust behind us, the passion's dead and gone
-and i mean it when i tell you, i hope you're doing well
-but I gotta say this, baby, I'd sell my soul to send you straight to hell
-i can't recall the moment i decided your fate
-perhaps when I was talking to the other woman on your plate
-i've never been a side dish, and i didn't take it well
-yeah, i gotta tell you, baby, i'd sell my soul to send you straight to hell
+It's been a little while now, the both of us moved on
+Our love is dust behind us, the passion's dead and gone
+And I mean it when I tell you, I hope you're doing well
+But I gotta say this, baby, I'd sell my soul to send you straight to hell
+I can't recall the moment I decided your fate
+Perhaps when I was talking to the other woman on your plate
+I've never been a side dish, and I didn't take it well
+Yeah, I gotta tell you, baby, I'd sell my soul to send you straight to hell
 
-you're a looker not a lover
-but i'm a fighter so take cover
-and i've got the kind of ammo that you can't buy
-i'm doing some spring cleanin'
-i'm exorcising demons
-so bring my whiskey and my guitar cause someone is gonna die
+You're a looker not a lover
+But I'm a fighter so take cover
+And I've got the kind of ammo that you can't buy
+I'm doing some spring cleanin'
+I'm exorcising demons
+So bring my whiskey and my guitar cause someone is gonna die
 
-i'd say that i was joking, but i can't say a word
-and lying is a sin, my dear, i don't believe you heard
-and after all the wrong you did me, i'm trying not to dwell
-but i gotta tell you, darling, i'd sell my soul to send you straight to hell
+I'd say that I was joking, but I can't say a word
+And lying is a sin, my dear, I don't believe you heard
+And after all the wrong you did me, I'm trying not to dwell
+But I gotta tell you, darling, I'd sell my soul to send you straight to hell
 
-you're a cheater, not a player
-but i'm a devil slayer
-and you ain't got nothing on the game I'm gonna bring
-i'm doing some spring cleanin
-i'm exorcising demons
-so ring a bell because it's about damn time this angel got her wings
+You're a cheater, not a player
+But I'm a devil slayer
+And you ain't got nothing on the game I'm gonna bring
+I'm doing some spring cleanin'
+I'm exorcising demons
+So ring a bell because it's about damn time this angel got her wings
 
-i heard a wise man sayin' the past should stay the past
-but if i never looked behind me, i wouldn't know just what i had
-i've found a man who loves me and truly treats me well
-but i still think about how i'd sell my soul to send you straight to hell
+I heard a wise man sayin' the past should stay the past
+But if I never looked behind me, I wouldn't know just what I had
+I've found a man who loves me and truly treats me well
+But I still think about how I'd sell my soul to send you straight to hell
 {{< / lyrics >}}

@@ -4,7 +4,9 @@ title: "warrior of love"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+{{< blockquote author="Kate Nyx" source="S01E20085" >}}
+I wrote it for a friend of mine, actually, when I was working at a sewing machine store.  I was selling sewing machines at the time, and she and her boyfriend were having some problems because, um, he wanted to be polyamorous, and she did not want to be polyamorous.  And I wrote this song for her as a way to sort of get through the difficulties of having those conversations, and, um, just to sort of help her through that time.  So if you hear it and it helps you through a difficult time, either in a relationship or else-wise, I'm so glad that's true.  And if this is your first time hearing it, I hope you enjoy it.
+{{< / blockquote >}}
 
 ## Lyrics
 {{< lyrics >}}
