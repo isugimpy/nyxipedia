@@ -54,7 +54,11 @@
   <footer>
     <strong>{{ with $.Scratch.Get "bl_author" }}{{ . }}{{ end }}</strong>
     {{ with $.Scratch.Get "bl_source" }}
+      {{ with $.Scratch.Get "bl_link" }}
+<cite><a href={{ $.Scratch.Get "bl_link" }}>{{ $.Scratch.Get "bl_source" }}</a></cite>
+      {{ else }}
 <cite>{{ . }}</cite>
+      {{ end }}
     {{ else }}
       {{ with $.Scratch.Get "bl_link" }}
         <cite>
