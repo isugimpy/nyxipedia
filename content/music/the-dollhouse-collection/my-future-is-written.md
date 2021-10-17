@@ -4,7 +4,7 @@ title: "My Future is Written [In the Key of E]"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+The Zac mentioned in this song is Zac Anger, who Kate also performed with in Electric Mime Symphony and Zac Anger and the Heretics.  Additionally, he produced Soliloquy and a number of songs before that album was released, and is who gave Kate her guitar, Melissa.
 
 ## Lyrics
 {{< lyrics >}}
