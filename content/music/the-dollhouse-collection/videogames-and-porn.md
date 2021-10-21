@@ -17,7 +17,7 @@ He's already out the door
 
 Cause Grand Theft is his future
 And the chicks on his computer
-They support his life
+They support his life force
 Must admit it's kind of sad
 While he's busy playing that game
 I am making my claim to fame
@@ -37,7 +37,7 @@ Forget this
 
 Cause Grand Theft is his future
 And the chicks on his computer
-They support his life
+They support his life force
 Must admit it's kind of sad
 While he's busy playing that game
 I am making my claim to fame
