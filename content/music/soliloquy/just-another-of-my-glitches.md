@@ -10,7 +10,7 @@ Kate referred to this song as "doll murdery."  She also hinted at the idea of re
 {{< lyrics >}}
 If you see me crying, call an ambulance
 A doll ambulance, to be exact
-Because pretty dollys don't have a chance
+Because pretty dollies don't have a chance
 At a hospital with the human boys
 They belong with the other toys
 
@@ -47,7 +47,7 @@ Just keep talking so I can keep bleeding
 
 If you see me crying, call an ambulance
 A doll ambulance, to be exact
-Because pretty dollys don't have a chance
+Because pretty dollies don't have a chance
 At a hospital with the human boys
 They belong with the other toys
 (x4)
