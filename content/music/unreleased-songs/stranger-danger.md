@@ -1,10 +1,10 @@
 ---
-title: "Don't Send Pictures of your Dick"
+title: "Stranger Danger"
 ---
 # {{< page-title >}}
 
 ## Background
-It's unknown if this is the correct name of this song.  It was performed live for the 2019-11-06 show, and has no other known recording.
+
 
 ## Lyrics
 {{< lyrics >}}
