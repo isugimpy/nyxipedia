@@ -1,5 +1,5 @@
 ---
-title: "I Go Live Every Tuesday at 8pmEDT on KateNyx.live"
+title: "Coming to a Screen Near You"
 ---
 # {{< page-title >}}
 
