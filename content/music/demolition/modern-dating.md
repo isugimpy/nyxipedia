@@ -4,7 +4,12 @@ title: "Modern Dating [DEMO]"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+The following quote was delivered during an episode while speaking as Trash Goblin.  Any grammatic errors are from the original quote.
+
+{{< blockquote author="Kate Nyx" source="S02E06" link="https://youtu.be/ueuAFWHr84I?t=2547" >}}
+So, this I'm bout to play for you is, um, a song I wrote.  Is a song I wrote...  was after I was dating the snake, so let me think.  Was probably eight years ago now, maybe maybe seven year ago now, that I wrote this song.  Um.  This song is inspired by an article I read about dating in 2014 or 2012 or whenever it was.  It is like, "Twenty things that are bad about dating in the modern times," and I was like "You know what would help all of you in these problems is this song."
+{{< / blockquote >}}
+
 
 ## Lyrics
 {{< lyrics >}}
