@@ -4,7 +4,7 @@ title: "Rainbow Lemonade & Gin"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+This is a song Kate wrote about a frequent topic in her music, her relationship with her friend Bean.
 
 ## Lyrics
 {{< lyrics >}}
@@ -27,7 +27,7 @@ I want to climb a mountain with green high tops on my feet
 To see Philadelphia amidst a smoky haze
 To witness all our bridges going up in flames
 I wanna paint a portrait of a world only we can see
-Funny cotton candy clouds and our licorice tree
+Beneath cotton candy clouds and our licorice tree
 Even after all the time we were scattered by
 I still feel unstoppable with your music in my mind
 And I want to travel back in time
@@ -37,6 +37,6 @@ With rainbow lemonade and gin
 
 Maybe it's the time of year
 Makes me wish that you were here
-Try to fill the empty space
+I try to fill the empty space
 With gin and rainbow lemonade
 {{< / lyrics >}}
