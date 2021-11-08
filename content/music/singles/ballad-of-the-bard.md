@@ -28,10 +28,10 @@ I’m not gonna sugarcoat, sometimes the only way is hope
 So then hope is what we have to do
 I guess hope will have to do
 
-And when hopes big sister faith comes knocking at your door
+And when hope's big sister faith comes knocking at your door
 Don’t pretend that you’ve never met before
-You have to remember it won’t be like this forever
-don’t have to make the same mistakes
+You have to remember it's not like this forever
+Don’t have to make the same mistakes
 I’ll help you find the better place
 
 You may be in darkness but I swear a light is coming
