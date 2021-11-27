@@ -4,7 +4,7 @@ title: "In Your Grave"
 # {{< page-title >}}
 
 ## Background
-Lorem Ipsum
+During S03E06, Kate mentioned that The Dandylions covered this song, and she feels that it's actually a better version than her recorded version from the album.
 
 ## Lyrics
 {{< lyrics >}}
