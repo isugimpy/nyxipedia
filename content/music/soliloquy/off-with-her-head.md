@@ -8,13 +8,13 @@ Lorem Ipsum
 
 ## Lyrics
 {{< lyrics >}}
-You bottled all the blood bled
+You bottled all the blood I bled
 I could care less if you were dead
 You bleached my black and dyed it red
 I could care less if you were dead
 Is she pretty when her legs are spread
 I could care less if you were dead
-Apologies mean nothing, bud
+Apologies mean nothing, pet
 And now I say, off with her head
 
 You know better than to mess with the queen
@@ -36,8 +36,10 @@ Especially when it comes to these sort of things
 Off with her head
 (x4)
 
+She's so much prettier in red
+She's so much prettier in red
 She's so much prettier in death
-(x4)
+She's so much prettier in death
 And now I say, off with her head
 (x4)
 {{< / lyrics >}}
