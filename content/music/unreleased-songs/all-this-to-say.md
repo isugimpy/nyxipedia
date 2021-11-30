@@ -1,5 +1,5 @@
 ---
-title: "All of This to Say"
+title: "All This 2 Say"
 ---
 # {{< page-title >}}
 
