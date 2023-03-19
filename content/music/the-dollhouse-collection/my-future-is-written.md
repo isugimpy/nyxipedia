@@ -28,10 +28,10 @@ This is a song
 About forever you and I
 You and I
 
-My life is [[unintelligible]] and there's the door
+My life is planned and there's the door
 I've never felt like this before
 Can't love anyone else anymore
-So [[unintelligible]] you my love
+So here's to you you my love
 I think we're good
 Our lives are packed
 Are you ready for this?
