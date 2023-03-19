@@ -3,9 +3,6 @@ title: "To My Sisters..."
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 You tell me to realize

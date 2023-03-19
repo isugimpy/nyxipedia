@@ -3,9 +3,6 @@ title: "To Serve God and My Country"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Through dishonor and distrust

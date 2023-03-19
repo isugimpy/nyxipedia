@@ -3,9 +3,6 @@ title: "Big Gun COVER"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 It's goin' down. Yo the girl got a gun,

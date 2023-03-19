@@ -3,9 +3,6 @@ title: "Annabelle [DEMO]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Annabelle sat

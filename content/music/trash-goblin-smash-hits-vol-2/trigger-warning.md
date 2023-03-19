@@ -3,9 +3,6 @@ title: "Trigger Warning"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Times up, butter cup, I just had a premonition

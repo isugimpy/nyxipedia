@@ -3,9 +3,6 @@ title: "CANVAS [The Nouveau Aesthetic Theme]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Canvas, the great equalizer

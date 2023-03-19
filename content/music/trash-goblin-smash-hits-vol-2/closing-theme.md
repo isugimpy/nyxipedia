@@ -3,9 +3,6 @@ title: "Closing Theme"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Please like (like! like!)

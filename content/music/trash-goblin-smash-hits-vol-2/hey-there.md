@@ -3,9 +3,6 @@ title: "Hey There"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Hey there, pretty boy

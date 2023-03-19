@@ -3,9 +3,6 @@ title: "Take A Knee DEMO"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 you thought i would never learn to open up my cage

@@ -3,9 +3,6 @@ title: "Bianca"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 It's so easy to go back

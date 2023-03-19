@@ -3,9 +3,6 @@ title: "No Parking Sign"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 There is a no

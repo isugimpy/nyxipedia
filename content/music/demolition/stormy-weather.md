@@ -3,9 +3,6 @@ title: "Stormy Weather [from \"Manic Pixie Dream Show\"]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 (spoken)

@@ -3,9 +3,6 @@ title: "Black Sky Lullaby"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 i'll be fine without you

@@ -3,9 +3,6 @@ title: "Heart in a Jar [DEMO]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 She has my heart in a jar by her bedside, suspended in glittering gel.

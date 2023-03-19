@@ -3,9 +3,6 @@ title: "Blood Imperial [Bury Your Whore]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 You have the blood and burial

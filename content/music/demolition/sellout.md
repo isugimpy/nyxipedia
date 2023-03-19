@@ -3,9 +3,6 @@ title: "sellout! [Alternate Version]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 God I wish that I could sell out

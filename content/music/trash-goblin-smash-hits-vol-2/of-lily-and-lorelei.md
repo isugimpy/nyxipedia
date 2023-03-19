@@ -3,9 +3,6 @@ title: "Of Lily & Lorelei"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Lily was a good girl, she wore white cotton lace

@@ -3,9 +3,6 @@ title: "Fell In Love With A Girl COVER"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 [[lyrics need correction]]

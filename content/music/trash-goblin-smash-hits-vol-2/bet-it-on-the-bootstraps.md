@@ -3,9 +3,6 @@ title: "Bet It On The Boostraps"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 welcome to the ratrace racetrack honey

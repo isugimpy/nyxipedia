@@ -3,9 +3,6 @@ title: "Arise Fair Sun [Alternate Version]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Romeo was young, and he was unafraid

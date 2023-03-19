@@ -3,9 +3,6 @@ title: "Clint Eastwood COVER"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 I ain't happy, I'm feeling glad

@@ -3,9 +3,6 @@ title: "Clap If You Believe"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 My light is going out

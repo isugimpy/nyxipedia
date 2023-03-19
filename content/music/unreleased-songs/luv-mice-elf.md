@@ -3,15 +3,12 @@ title: "Luv Mice Elf"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 I burned so bright I turned to ash
 Or dimmed my light to suit the task
 I did everything that you ask
-At least what I could manage 
+At least what I could manage
 
 I gave my breath until I choked
 I watch the rest go up in smoke
@@ -39,12 +36,12 @@ But when I’m not th e subject of constant adulation
 It might as well be fade to black
 
 I just want to love myself
-I just want to love myself 
+I just want to love myself
 I don’t want anyone else
-I just want to love myself 
+I just want to love myself
 
-Who’d have thought so, who’s have guessed 
-That this would be my final test 
+Who’d have thought so, who’s have guessed
+That this would be my final test
 I should have seen it coming, yet
 Here we fucking stand
 

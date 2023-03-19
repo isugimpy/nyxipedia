@@ -3,9 +3,6 @@ title: "Hypocritic Oath"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 You coulda said anything

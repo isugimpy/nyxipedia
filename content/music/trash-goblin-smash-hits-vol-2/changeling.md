@@ -3,9 +3,6 @@ title: "changeling"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 take me back under the mound

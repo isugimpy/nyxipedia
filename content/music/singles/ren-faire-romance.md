@@ -3,9 +3,6 @@ title: "Ren Faire Romance"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Maybe it's the way you look in your feathered cap

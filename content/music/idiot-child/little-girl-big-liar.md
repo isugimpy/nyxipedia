@@ -3,9 +3,6 @@ title: "little girl, BIG LIAR"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 I am watching you

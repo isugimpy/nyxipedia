@@ -3,9 +3,6 @@ title: "Long Sleeves in Summer [I Believe]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 The movies are lying, it isn't romantic

@@ -3,15 +3,12 @@ title: "Domestic Rhapsody"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 (vocalizing)
 I can tell from the way you smile
 That you think I’m inferior
-Why don't I complain?  Because 
+Why don't I complain?  Because
 I’m used to you being superior
 
 She’s a goddess in a blue dress

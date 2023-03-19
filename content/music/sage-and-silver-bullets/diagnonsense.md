@@ -3,9 +3,6 @@ title: "Diagnonsense"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 It was predicted by my mother's eyes

@@ -3,9 +3,6 @@ title: "Money Talks [Demo]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 I won't be quiet
