@@ -23,7 +23,7 @@ Behind her eyes
 She was just like all the rest of them
 And can you see her snicker madly
 I'll destroy her, more than gladly
-I am greatest of the [[unintelligible]]
+I am greatest of the bitch hunters this year
 
 Do you see her sneak behind me?
 Telling us, "Never mind me"
@@ -32,7 +32,7 @@ But I know that when that we're not looking she stares
 Her tell-tale heart beats beneath my floor
 Hope the cops don't hear it when I open the door
 Her petticoat is caught beneath the planks
-[[unintelligible]]
+It's not my fault I killed the little skank
 
 What a pretty girl she was
 Her name surely meant devil
