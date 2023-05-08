@@ -6,5 +6,4 @@ bookCollapseSection: true
 
 # {{< page-title >}}
 
-{{< columns >}}
 Season Threason!

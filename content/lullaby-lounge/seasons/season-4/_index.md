@@ -6,5 +6,4 @@ bookCollapseSection: true
 
 # {{< page-title >}}
 
-{{< columns >}}
 A description of this season will follow.
