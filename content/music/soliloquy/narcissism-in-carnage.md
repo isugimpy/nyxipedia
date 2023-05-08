@@ -3,9 +3,6 @@ title: "Narcissism in Carnage"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 I can barely hear the screams

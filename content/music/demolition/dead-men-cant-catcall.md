@@ -3,9 +3,6 @@ title: "Dead Men Can't Catcall"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Dead man can't whistle at you walking down the road

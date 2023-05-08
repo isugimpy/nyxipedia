@@ -3,9 +3,6 @@ title: "Cheap Thrills COVER"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Come on, come on, turn the radio on

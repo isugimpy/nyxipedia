@@ -3,9 +3,6 @@ title: "Delilah Mayfair"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 No, I've never said it wasn't true

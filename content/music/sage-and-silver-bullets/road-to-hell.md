@@ -3,9 +3,6 @@ title: "Road To Hell"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 i can feel it creeping up behind me

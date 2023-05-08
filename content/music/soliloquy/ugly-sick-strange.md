@@ -3,9 +3,6 @@ title: "Ugly Sick & Strange"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 I'm pretty convinced

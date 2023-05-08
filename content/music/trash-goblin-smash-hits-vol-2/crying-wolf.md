@@ -3,9 +3,6 @@ title: "Crying Wolf"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 woke up crying out in pain

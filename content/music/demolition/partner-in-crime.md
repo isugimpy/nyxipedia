@@ -3,12 +3,9 @@ title: "Partner In Crime"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
-	
+
 those who say that love is blind
 must have never met me
 i set you in my sights

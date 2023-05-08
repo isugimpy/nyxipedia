@@ -3,9 +3,6 @@ title: "She Who is Made of Salt"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 I wound so easily

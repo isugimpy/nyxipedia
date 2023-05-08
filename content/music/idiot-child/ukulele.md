@@ -3,9 +3,6 @@ title: "Ukulele"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 You’re tall, you’re funny, and you’re smart

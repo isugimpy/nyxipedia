@@ -3,9 +3,6 @@ title: "Wretched Hope"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Don't give up, Hayley Jane, he'll fall in love yet

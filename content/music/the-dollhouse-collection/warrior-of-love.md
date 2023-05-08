@@ -3,9 +3,6 @@ title: "Warrior of Love [DEMO]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 You tell me I don't have to worry

@@ -3,9 +3,6 @@ title: "Midnight"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 I'm feeling wasted

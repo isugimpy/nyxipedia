@@ -3,9 +3,6 @@ title: "Supernova Girl [COVER]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Stargazing megafast

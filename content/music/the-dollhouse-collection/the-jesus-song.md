@@ -3,9 +3,6 @@ title: "The Jesus Song"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 "Come on, it'll make you feel good," is what the woman said

@@ -3,9 +3,6 @@ title: "The Curse of Eve"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 you have cursed us, mother eve

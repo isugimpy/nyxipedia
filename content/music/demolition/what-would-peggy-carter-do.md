@@ -3,9 +3,6 @@ title: "What Would Peggy Carter Do?"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 when i’m feeling down

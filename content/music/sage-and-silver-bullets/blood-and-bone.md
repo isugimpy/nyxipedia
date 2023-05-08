@@ -3,9 +3,6 @@ title: "Blood and Bone"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 i am no saint i have my sins

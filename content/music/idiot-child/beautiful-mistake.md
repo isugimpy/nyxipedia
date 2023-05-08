@@ -3,9 +3,6 @@ title: "Beautiful Mistake"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Dear dear boy
@@ -30,11 +27,11 @@ Because my hand is in your hand
 There’s fire in your eyes
 Dear dear boy
 I can’t open my heart
-If I move another inch 
+If I move another inch
 I’ll fall into your arms
 
-Hold me 
-Scold me 
+Hold me
+Scold me
 Just let me be near
 Uncover me
 Discover me
@@ -44,10 +41,10 @@ Dear dear boy
 Doing what I must
 Because someday I’ll dance away
 And leave this in the dust
-Dear dear boy 
+Dear dear boy
 With every breath I take
 Reminded of your crooked smile
-The beautiful mistake 
+The beautiful mistake
 You’re such a beautiful mistake
 (x2)
 {{< / lyrics >}}

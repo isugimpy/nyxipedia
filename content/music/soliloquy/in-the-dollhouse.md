@@ -3,9 +3,6 @@ title: "In The Dollhouse"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Caught in a corner

@@ -3,9 +3,6 @@ title: "Pop That Bubblegum [Blanche Babbish's Theme]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 I won't let you break my toys

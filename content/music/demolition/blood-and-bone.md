@@ -3,9 +3,6 @@ title: "Blood and Bone [DEMO]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 with wine

@@ -3,9 +3,6 @@ title: "heroine [DEMO]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 watching as the fire consumes us

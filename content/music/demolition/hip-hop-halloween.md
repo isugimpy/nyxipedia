@@ -3,9 +3,6 @@ title: "Hip Hop Halloween"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 you gave me such a fright, oh isn't it a scream

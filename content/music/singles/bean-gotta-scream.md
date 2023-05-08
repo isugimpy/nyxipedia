@@ -3,9 +3,6 @@ title: "BEAN GOTTA SCREAM feat. Winslow the Cat"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 My name is Winslow and I'm a bean

@@ -3,9 +3,6 @@ title: "Under Covers"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 [[unintelligible]] and cheap motels and call a highway home

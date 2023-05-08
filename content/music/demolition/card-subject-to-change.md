@@ -3,9 +3,6 @@ title: "Card Subject to Change [DEMO]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 you said that blonde heels have more fun

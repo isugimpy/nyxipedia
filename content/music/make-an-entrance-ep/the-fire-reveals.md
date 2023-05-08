@@ -3,9 +3,6 @@ title: "The Fire Reveals [The Crucible Theme]"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 I used to feel down; hit the ground running

@@ -3,9 +3,6 @@ title: "The Fire Reveals - Chikara Theme Reprise"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 I used to feel down; hit the ground running

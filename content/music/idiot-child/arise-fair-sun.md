@@ -3,9 +3,6 @@ title: "Arise Fair Sun"
 ---
 # {{< page-title >}}
 
-## Background
-Lorem Ipsum
-
 ## Lyrics
 {{< lyrics >}}
 Romeo was young
@@ -38,11 +35,11 @@ At least not any more
 But girl you’re far too pretty not to kill a little for
 Arise fair sun and slay the envious moon
 For she is sick and pale with grief
-Good bye my love, for I have come too soon, 
+Good bye my love, for I have come too soon,
 You’ll not be with me with me
 
-Romeo Romeo 
-Wherefore art thou Romeo 
+Romeo Romeo
+Wherefore art thou Romeo
 I need you I need you now
 Don’t let go, don’t let go
 I could be your Romeo
