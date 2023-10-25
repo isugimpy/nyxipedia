@@ -21,16 +21,16 @@ It sounds like a drinking song!  You know what I mean?  It sounds like an old En
 ## Lyrics
 {{< lyrics >}}
 I am not a doctor but I’ll do my best to heal you
-listen to my voice and know your live another day
-I may not be next to you but know that I can feel you
+listen to my voice and know you'll live another day
+I may not be next to you, but know that I can feel you
 And I know what it’s like to live with pain
-I’m not gonna lie to you your life is not a dream come true
+I’m not gonna lie to you, life is not a dream come true
 But it won’t be like this every day
 No, it won’t be like this every day
 
-Tomorrow may be different but if it’s not you’ll survive
+Tomorrow may be different, but if it’s not you’ll survive
 If I have to go through all this, then you have to, too
-I know sometimes it seems like the only option’s suicide
+I know sometimes it seems the only option’s suicide
 But you and I both know that isn’t true
 I’m not gonna sugarcoat, sometimes the only way is hope
 So then hope is what we have to do
