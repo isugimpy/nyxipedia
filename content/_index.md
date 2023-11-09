@@ -18,6 +18,7 @@ Well, I'm glad you asked, stranger!
 * [Closet Champion on Patreon](https://www.patreon.com/ClosetChampion)
 * [Kate Nyx on Twitch](https://www.twitch.tv/katenyx) - Watch the Lullaby Lounge Novelty Hour every Tuesday at 8 Eastern/5 Pacific on Twitch!  Missed the live show?  Catch a replay on Thursday!
 * [Kate Nyx on YouTube](https://www.youtube.com/katenyx) - Missed the show?  Old episodes available here!
-* [Kate Nyx on Twitter](https://twitter.com/TheGoblinmother)
-* [Kate Nyx on Instagram](https://www.instagram.com/thegoblinmother/)
-* [Kate Nyx on TikTok](https://www.tiktok.com/@iamkatenyx)
+* [Kate Nyx on Twitter](https://twitter.com/xynetak)
+* [Kate Nyx TV on Twitter](https://twitter.com/katenyxtv)
+* [Kate Nyx on Instagram](https://www.instagram.com/xynetak/)
+* [Kate Nyx on TikTok](https://www.tiktok.com/@xynetak)
